@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 22c9cef0029baee4c8f9a7a28a04032c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 2865785943656466821, guid: 71dcbcb93909f90408d7b32b0d99485e, type: 3}
+  - sunseekerPrefab: {fileID: 1612296612263310987, guid: 56b52ae18ec6a974db36ee1ad4fce32e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
